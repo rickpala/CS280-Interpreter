@@ -14,22 +14,29 @@ String reversal and integer reversal (digit-by-digit) is a feature using the ! o
 Error handling is implemented with appropriate syntax error and runtime error messages.
 
 There are "Let" Statements for variable declaration:
+```C++
   let age 19;
   let name "Ricky";
-  
+```
+
 There are "Print" Statements for console output:
+```C++
   print "Hello, World!\n";
   print "I am " + name;
+```
 
 There are "Loop" Statements for iterative execution:
+```C++
   loop 1 BEGIN
     //code goes here
   END
+```
   
 There are "If" Statementes for conditional execution:
+```C++
   if 0 BEGIN
     //code goes here
   END
-  
+```
   
 To use this language, write code into a file and pass the file's name as a command-line-argument.
