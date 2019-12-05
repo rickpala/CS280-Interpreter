@@ -1,0 +1,9 @@
+let x 0;
+
+if x+1 begin let x 9*5;
+end;
+
+if x - 45 begin let x "funky error?"; end;
+
+print x;
+print "\n";

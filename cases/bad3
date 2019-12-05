@@ -1,0 +1,15 @@
+
+let x 2;
+let y 10;
+
+print "Hello!\n";
+print x + y;
+print "\n";
+
+if x - 2 begin print "x != 2\n"; end;
+
+if "strange" begin
+print "Well... that IS strange!\n\n\n";
+end;
+
+print "should never get here";

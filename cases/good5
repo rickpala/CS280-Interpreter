@@ -1,0 +1,22 @@
+let v1 2 + 7;
+let v2 7 - 2;
+let v3 2 - 7;
+let v4 2*5;
+let v5 2/9;
+let v6 9/2;
+let v7 !1961;
+
+print v1;
+print "  ";
+print v2;
+print "  ";
+print v3;
+print "  ";
+print v4;
+print "  ";
+print v5;
+print "  ";
+print v6;
+print "  ";
+print v7;
+print "\n";

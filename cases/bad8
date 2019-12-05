@@ -1,0 +1,2 @@
+print "an erroneous assignment statement...";
+let foo foo;

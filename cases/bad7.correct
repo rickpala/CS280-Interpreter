@@ -1,0 +1,3 @@
+try adding a string to an int...
+
+RUNTIME ERROR at 1: Type mismatch on operands of +

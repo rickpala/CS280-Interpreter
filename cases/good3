@@ -1,0 +1,10 @@
+// vars
+
+let x 3;
+print x;
+
+let x 5;
+print x;
+
+let x "\nnow, a string!\n";
+print x;

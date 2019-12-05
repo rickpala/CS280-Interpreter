@@ -1,0 +1,10 @@
+let NL "\n";
+
+print 5;
+print NL;
+print 7-7;
+print NL;
+print 7 - 14;
+print NL;
+print 14 - 7;
+print NL;

@@ -1,0 +1,6 @@
+print 4 * 5;
+print "\n";
+
+
+
+print "foo" * "bar";

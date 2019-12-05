@@ -1,0 +1,18 @@
+print 2 * 3 + 5;
+print "\n";
+
+print 2 * (3 + 5);
+print "\n";
+
+print (2 * 3) + 5;
+print "\n";
+
+let x 0;
+
+loop x - 5 begin
+	print x;
+	print ": ";
+	print 4 * x * x + 3 * x - 7;
+    print "\n";
+	let x x + 1;
+end;

@@ -1,0 +1,21 @@
+let SKIP "\n";
+
+let x 4;
+print 2 * x + 10; print SKIP;
+print (2 * x) + 10; print SKIP;
+print (2 * (x + 10)); print SKIP;
+
+loop x begin
+if x - 4 begin print "zero?" + SKIP; end;
+let x x - 1;
+end;
+
+print "wow!" + SKIP*3;
+
+print "wow indeed!";
+
+
+print "yes" * 4; print SKIP;
+print "yes"*(6/3);
+print "\n\n";
+print "yes"*(4/2)*(9-12);

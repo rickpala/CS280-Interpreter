@@ -1,0 +1,5 @@
+print 2 + 7 * 1 + 1;
+
+print "\n\nand then\n\n";
+
+print 2 - 5 + 5 - 2 * "Wa Hoo!" + 1;

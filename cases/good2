@@ -1,0 +1,2 @@
+if 1 begin print "It's true\n"; end;
+if 0 begin print "This should not ever print\n"; end;

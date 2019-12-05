@@ -1,0 +1,21 @@
+let NL "\n";
+
+let y 2*7+2;
+print y;
+print NL;
+
+print 2*(7+2);
+print NL;
+
+print !2-14;
+print NL;
+
+print !(2-14);
+print NL;
+
+let y !!1492;
+print y;
+print NL;
+
+print !!!y;
+print NL;

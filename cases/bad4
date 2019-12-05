@@ -1,0 +1,2 @@
+print "is 2 < a string?\n";
+print 2 - "a string";

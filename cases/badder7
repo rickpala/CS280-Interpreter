@@ -1,0 +1,11 @@
+let x 7;
+
+print x; print "\n";
+
+let x 12; let y x ; let z x;
+
+print z; print "\n";
+
+let x 4;
+let x "4";
+print x*"\n";

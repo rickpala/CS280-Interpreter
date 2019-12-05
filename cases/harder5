@@ -1,0 +1,10 @@
+let myX 10;
+
+let y 4;
+
+loop myX - y begin
+	print "hi!\n";
+	let y y + 2;
+end;
+
+print "that was kinda boring, actually\n";

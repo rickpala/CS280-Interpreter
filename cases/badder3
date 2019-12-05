@@ -1,0 +1,9 @@
+let x 27;  let y 100; let z "a small string";
+print x;
+print "\n";
+print y;
+print "\n";
+if (x - y) begin  print z; end;
+
+print "\n";
+print "done now!\n";

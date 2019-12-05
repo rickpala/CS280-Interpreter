@@ -1,0 +1,14 @@
+if 0 begin print "nothing";
+if 1 begin print "something"; end ;
+end;
+
+if 0 begin if 700 begin print "hey now 1"; end ;
+end;
+if 1 begin if 700 begin print "hey now, "*2+"\n";
+
+
+end;
+
+end;
+
+print 3/(2-2)+1;

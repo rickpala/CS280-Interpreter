@@ -1,0 +1,9 @@
+let T 1;
+let incr 3;
+let NL "\n";
+
+print T;
+print NL;
+let T T + incr;
+print T;
+print NL;
